@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.70/OSX64" 1517413692
+<REAPER_PROJECT 0.1 "5.70/OSX64" 1517436477
   RIPPLE 1
   GROUPOVERRIDE 0 1 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0.62314583333333
-  ZOOM 0.51526458754732 28 0
+  ZOOM 1.9148522409737 0 0
   VZOOMEX 14
   USE_REC_CFG 0
   RECMODE 1
@@ -84,10 +84,10 @@
     DEFSHAPE 1 -1 -1
   >
   MARKER 1 21.29566857740548 Begrüßung 0 0 1 B
-  MARKER 4 58.73938822202039 "Meta: Wird sind wieder da" 0 0 1 B
-  MARKER 5 437.21239362963729 "Thema: Paid staff" 0 0 1 B
-  MARKER 3 3906.142221869321 "Thema: Fossgis Förderanträge" 0 0 1 B
-  MARKER 2 5366.802292761693 "Thema: OSM-Hacking WE bei der Fossgis in Bonn" 0 0 1 B
+  MARKER 2 58.73938822202039 "Meta: Wird sind wieder da" 0 0 1 B
+  MARKER 3 437.21239362963729 "Thema: Paid staff" 0 0 1 B
+  MARKER 4 3906.142221869321 "Thema: Fossgis Förderanträge" 0 0 1 B
+  MARKER 5 5366.802292761693 "Thema: OSM-Hacking WE bei der Fossgis in Bonn" 0 0 1 B
   MARKER 6 6012.5481232472275 Verabschiedung 0 0 1 B
   <PROJBAY
     ITEM 1 /Users/andi/Projekte/podcasts/osmde/000_RadioOSM__Einspieler/osmde_Gespraechsrunde_Screw-Jay_Outliner.mp3 osmde_Gespraechsrunde_Screw-Jay_Outliner.mp3
