@@ -1,0 +1,5704 @@
+<REAPER_PROJECT 0.1 "5.70/OSX64" 1517608775
+  RIPPLE 2
+  GROUPOVERRIDE 0 1 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 52
+  PEAKGAIN 1.1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 -1
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 0 5 0 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 6005.7031519273942
+  ZOOM 3.9706376068826 23478 0
+  VZOOMEX 12
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Recordings" ""
+  <RECORD_CFG
+    Y2FsZhAAAAAFAAAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "render_final"
+  RENDER_PATTERN osmde046_$tracknumber-$track
+  RENDER_FMT 0 1 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 0
+  RENDER_RESAMPLE 7 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 3
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 44100 1 0
+  <RENDER_CFG
+    Y2FsZhAAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 1 0.75 1.5
+  SELECTION 6003.1645871320488 6003.9151440516416
+  SELECTION2 6003.1645871320488 6003.9151440516416
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 21.295 Begrüßung 0 0 1 B
+  MARKER 2 58.739 "Meta: Wird sind wieder da" 0 0 1 B
+  MARKER 3 427.52745392588434 "Thema: Paid Staff" 0 0 1 B
+  MARKER 4 3806.799637948151 "Thema: Fossgis Förderanträge" 0 0 1 B
+  MARKER 5 5266.1154680758609 "Thema: OSM-Hacking WE bei der Fossgis in Bonn" 0 0 1 B
+  MARKER 6 5895.0722650076777 Verabschiedung 0 0 1 B
+  <PROJBAY
+    ITEM 1 /Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track01.flac auphonic_v1.track01.flac
+    ITEM 1 /Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track02.flac auphonic_v1.track02.flac
+    ITEM 1 /Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track03.flac auphonic_v1.track03.flac
+    ITEM 1 /Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track04.flac auphonic_v1.track04.flac
+    ITEM 3 3C541FA6E0D82937 auphonic_v1.track01.flac
+    <DATA
+      POSITION 457.16095250949809
+      SNAPOFFS 0
+      LENGTH 5693.2562356991184
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC1AE6E8-DB4D-494B-9494-B468DD1CC805}
+      IID 5
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 457.16095250949809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F91933B-D832-B54C-A0DA-FAD812945C88}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track01.flac"
+      >
+    >
+    ITEM 3 47438FF6728F39B6 auphonic_v1.track01.flac
+    <DATA
+      POSITION 5975.2078490364993
+      SNAPOFFS 0
+      LENGTH 35.82557407732838
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {38400699-9AE7-D740-92AB-29FC52E5782B}
+      IID 549
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1.509804 0 1 -1
+      SOFFS 6098.8925550872054
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5608C6FA-7ABB-404B-8DE7-3756872398A0}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track01.flac"
+      >
+    >
+    ITEM 3 6AB8624550F44C83 auphonic_v1.track04.flac
+    <DATA
+      POSITION 6003.7593778917762
+      SNAPOFFS 0
+      LENGTH 22.9731042661333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {B83FA6EB-008C-D84D-A7D8-D0DC116AF6EC}
+      IID 551
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.594595 0 1 -1
+      SOFFS 6127.4440839424824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F42E3699-2429-0B47-8B43-78F55922F17B}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track04.flac"
+      >
+    >
+    ITEM 3 A04841ABD0B3244F auphonic_v1.track03.flac
+    <DATA
+      POSITION 457.16095250949809
+      SNAPOFFS 0
+      LENGTH 5693.2562356991184
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B44A4902-0E3D-F34B-9376-1BF4FF20D658}
+      IID 7
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 457.16095250949809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6834F169-4283-9645-A060-9452337B23C1}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track03.flac"
+      >
+    >
+    ITEM 3 A1D1E7EAA602A65F auphonic_v1.track04.flac
+    <DATA
+      POSITION 457.16095250949809
+      SNAPOFFS 0
+      LENGTH 5693.2562356991184
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2A37E908-0EBA-6346-9C79-B46E6E84B3F9}
+      IID 8
+      NAME auphonic_v1.track04.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 457.16095250949809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4FFFF53-48F6-424C-BC67-6ED3BD02B617}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track04.flac"
+      >
+    >
+    ITEM 3 C0B483C0367E1A0B auphonic_v1.track03.flac
+    <DATA
+      POSITION 5989.0212630990982
+      SNAPOFFS 0
+      LENGTH 12.51167901406188
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.83661 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {70648052-4D8B-2D43-965F-35BCA2833CFC}
+      IID 393
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6112.7059691498052
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EEB3265-6BC4-F743-AAD9-FA8A0C4C2DF5}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track03.flac"
+      >
+    >
+    ITEM 3 CD6443993BE7649F auphonic_v1.track02.flac
+    <DATA
+      POSITION 457.16095250949809
+      SNAPOFFS 0
+      LENGTH 5693.2562356991184
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C9F1AE10-CEF6-334E-97FA-D0DF454F56C0}
+      IID 6
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 457.16095250949809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85490355-AACC-D44B-A433-FC6C56EE921F}
+      <SOURCE FLAC
+        FILE "/Users/andi/Projekte/podcasts/osmde/OSMDE046/auphonic_v1.track02.flac"
+      >
+    >
+  >
+  <TRACK {E740B54C-13C1-BA49-AA76-75F1E15F87DC}
+    NAME Peda
+    PEAKCOL 33530462
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E740B54C-13C1-BA49-AA76-75F1E15F87DC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyQAAAAEAAAAAABAA
+        IQAAAAUAAAAIAAAAAQAAAP8BifVEYbNA/+hDQJAy/z/BSQwCK4f6PwEIAAAAAQAAAP8mhOdFRo9Auo2CCitI4z//wMqhRbbnPwEIAAAAAQAAAEHbEaYE8TdAAO61oPfG
+        sD4BAAAAAAAQQAEIAAAAAQAAALx+FGCwglpAq0c8Ctag9j+h+X5qvHQAQAEBAAAAAQAAABGxu/hyjsZAwLRbLZjs/z8AXI/C9SjUPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AFQCAABwAQAA
+        AFVsdHJhc2NoYWxsMwAQAAAA
+      >
+      PRESETNAME Ultraschall3
+      FLOATPOS 0 0 0 0
+      FXID {AD088892-7D9B-FB48-9884-6BF220A769D7}
+      WAK 0
+      BYPASS 1 0 0
+      <JS dynamics/Ultraschall_Dynamics ""
+        0.000000 0.000000 188.000000 100.000000 5.000000 250.000000 - - - 0.000000 0.000000 0.000000 -150.000000 -16.000000 -60.000000 16.000000 0.266000 -112.014306 48.000000 9.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      <JS_SER
+        AAB6QwAAAACCEt6+ghJev+GNpr+CEt6/kcsKwOGNJsAxUELAghJewNLUecCRy4rAuayYwOGNpsAJb7TAMVDCwFkx0MCCEt7AqvPrwNLU+cD92gPBkcsKwSW8EcG5rBjB
+        TZ0fweGNJsF1fi3BCW80wZ1fO8ExUELBxUBJwVkxUMHtIVfBghJewRYDZcGq82vBPuRywdLUecGzYoDB/dqDwUdTh8GRy4rB20OOwSW8kcFvNJXBuayYwQMlnMFNnZ/B
+        lxWjweGNpsErBqrBdX6twb/2sMEJb7TBU+e3wZ1fu8Hn177BMVDCwXvIxcHFQMnBD7nMwVkx0MGjqdPB7SHXwTia2sGCEt7BzIrhwRYD5cFge+jBqvPrwfRr78E+5PLB
+        iFz2wdLU+cHksvrB+rX1wVBC78H3cOjBMYjhwZGZ2sF6qdPBBbnMwXnIxcHn177BU+e3wb/2sMErBqrBlxWjwQMlnMFvNJXB20OOwUdTh8GzYoDBPuRywRYDZcHtIVfB
+        xUBJwZ1fO8F1fi3BTZ0fwSW8EcH92gPBqvPrwFkx0MAJb7TAuayYwNLUecAxUELAkcsKwOGNpr9tTR6/Ji6dvh9Bl72wYYU7PVydPSCmPD6qQa0+KGALP/g1Tj9m348/
+        tznAP29T+D8CIBxAtfw/QFauZ0DJiYlAFv2gQD8PukDDldRA2V3wQJeWBkGAYRVBxmwkQd+TM0GIsUJBvqBRQbM9YEG2Zm5B9Px7QZFyhEH3g4pBJSmQQcJalUGcE5pB
+        jlCeQVcQokFqU6VBtRuoQWJsqkGcSaxBW7itQSe+rkHrYK9Bz6avQQ2Wr0HbNK9BTomuQUmZrUFxaqxBIgKrQWZlqUH3mKdBO6GlQUKCo0HMP6FBS92eQeVdnEF5xJlB
+        pxOXQctNlEEPdZFBYouOQYaSi0ERjIhBbnmFQeZbgkE9aX5BQgl4QbSZcUE8HGtBVpJkQVj9XUFxXldBs7ZQQREHSkFlUENBcJM8QeLQNUFUCS9BUj0oQVdtIUHRmRpB
+        IsMTQaLpDEGfDQZBwV7+QEWe8EA72uJABhPVQP1Ix0BwfLlApa2rQNrcnUBHCpBAHTaCQBLBaEBlE01AeGMxQIqxFUCm+/M/C5G8P5kjhT9DZxs/SgsyPkHLhL6mUTG/
+        biCQv3OZx7+9E/+/k0cbwMkFN8BxxFLAf4NuwHQhhcBRAZPAUuGgwHPBrsCxobzACILKwHZi2MD4QubAjSP0wBkCAcFy8gfB0uIOwTfTFcGiwxzBEbQjwYSkKsH7lDHB
+        dYU4wfF1P8FxZkbB8lZNwXZHVMH7N1vBgihiwQsZacGUCXDB/kJ1wV2bdsEAAAAAAADYwg==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {64F2763F-8EE6-4147-BC9D-5314CB6C27D3}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 35.74546840419536
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {15C1622B-0A80-EE47-B11A-675591B0DE6F}
+      IID 1
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47F4A0BF-A60D-F544-802F-B296AF99F618}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 35.74546840419536
+      SNAPOFFS 0
+      LENGTH 1.99593986013274
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {94F656E7-CE3C-0E44-AF68-1807238A363B}
+      IID 42
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1.858974 0 1 -1
+      SOFFS 35.74546840419536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BDD19A4-DB6A-7C47-B1B7-84570D2E6A6C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 37.74140826432809
+      SNAPOFFS 0
+      LENGTH 178.61060623248096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F0F57F90-C570-4B4B-A056-574B4356183A}
+      IID 43
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 37.74140826432809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5442D39B-67F4-F445-A643-77A516DF2AC5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 216.35201449680906
+      SNAPOFFS 0
+      LENGTH 2.24130694346917
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {715527E2-9726-8B46-9E79-92B65FC0B101}
+      IID 401
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 217.26381496249016
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2BF9984-732B-4E45-AFF2-A2D5EB895193}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 218.59332144027823
+      SNAPOFFS 0
+      LENGTH 5.11198601129001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6AFEB398-5EF8-2E45-BD9E-AA3C429DA845}
+      IID 407
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 223.14264758103207
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C9079AE-2BFC-664E-9D5F-404DC247C76C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 223.83803403464233
+      SNAPOFFS 0
+      LENGTH 176.00247209106428
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6E8C88E-970F-8747-A14A-F1C23AA7D81E}
+      IID 418
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 229.27606101721017
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1B5E0ED-90E3-6041-862C-1F08709C161F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 399.84050612570661
+      SNAPOFFS 0
+      LENGTH 15.47575579527683
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {193FAFAB-A4AB-7143-835C-FFB43E73B7E1}
+      IID 425
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 407.3022079862647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1ADBB994-D266-ED4B-80A7-EC912EED114C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 415.31626192098344
+      SNAPOFFS 0
+      LENGTH 15.27884966988154
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA733F59-522F-674C-9482-EF0E890C0821}
+      IID 439
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 425.00080799509908
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {235C65CF-C508-4040-9F23-AEBA590EB0C9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 430.59511159086497
+      SNAPOFFS 0
+      LENGTH 15.4085085204581
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {057B0D48-074A-594E-85CA-D091DE79DE99}
+      IID 10
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 441.02109926657039
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DA00C51-DB90-A942-94F0-F5FD92718428}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.00362011132307
+      SNAPOFFS 0
+      LENGTH 0.38583020346408
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {90C6AA67-C14E-4B44-8F2F-B3D639B7AEB9}
+      IID 20
+      NAME auphonic_v1.track01.flac
+      VOLPAN 3.5625 0 1 -1
+      SOFFS 458.72189311349172
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21C7DC6D-AD31-4847-9001-532C0AF095A9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.3894503147871
+      SNAPOFFS 0
+      LENGTH 6.7803984285236
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {22716B38-9303-9F4E-AA5E-ACEB3E49B116}
+      IID 19
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 459.74320835795555
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42C98093-4D5D-4D4D-886C-AE2C5A25083F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 453.16984874331075
+      SNAPOFFS 0
+      LENGTH 707.64226861463783
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D9978906-2422-174D-8692-907F0311C8B5}
+      IID 34
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 467.65840150255002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB6DCAE1-6942-CB48-B072-C8A5034834E9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 1160.8121173579484
+      SNAPOFFS 0
+      LENGTH 1285.2549141164425
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9B7D8404-66D1-DD44-A791-2CF622C98164}
+      IID 56
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1178.6060268155784
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2352C542-6A87-0D48-AB6E-2C8D846CD076}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 2446.0670314743911
+      SNAPOFFS 0
+      LENGTH 357.13610995145154
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7540D3B5-A91C-794B-B5A0-981AEF56E8E8}
+      IID 67
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2468.0696709188474
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53CD504B-4466-9843-B644-3749465CF8AB}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 2803.2031414258427
+      SNAPOFFS 0
+      LENGTH 3.42314295047299
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {571F3B70-6F0B-6D4E-A718-9C882333DCE6}
+      IID 75
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2830.3211341719157
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75446786-3063-D240-909A-7B496719F7EC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 2806.6262843763152
+      SNAPOFFS 0
+      LENGTH 7.71660406927822
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {025C2DFB-FF02-5D42-A424-58AD90403A78}
+      IID 84
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2834.8563759441381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD774A09-52CA-774D-A777-6B58D1C8CF8A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 2814.3428884455934
+      SNAPOFFS 0
+      LENGTH 6.71722213708927
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18A546D4-1142-C846-9D63-8DAC38BCC1C5}
+      IID 88
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2843.7758624124517
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCD3797F-0DE4-214E-BA71-71BB09D463F5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 2821.0601105826827
+      SNAPOFFS 0
+      LENGTH 512.55904187308124
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {209C9D66-D14F-AC43-BCFC-44FF573E85B9}
+      IID 94
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2852.3931880870814
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DD0EEC6-8B33-224E-BC4B-6AED89FE0B09}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3333.6191524557644
+      SNAPOFFS 0
+      LENGTH 2.110530636779
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B72A15D6-69C5-E345-B09A-F7026AA6428E}
+      IID 106
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3370.3218447857698
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77AB7955-0CEC-6E48-83F2-C31F4BFB1372}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3335.7296830925434
+      SNAPOFFS 0
+      LENGTH 10.14126657093402
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E362A054-9F94-C241-ACC0-085EA0C62986}
+      IID 114
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3374.2313366729109
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90AB33A8-8B85-364D-8DE3-565B635B760C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3345.8709496634774
+      SNAPOFFS 0
+      LENGTH 1.92074103850655
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D8A6B2B-8C8C-C745-BCB7-19C855A067CD}
+      IID 124
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.4265040535493
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96376DD6-A5BE-6B4C-9128-B5BD38D95077}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3347.7916907019835
+      SNAPOFFS 0
+      LENGTH 69.79313040034231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {43825983-9758-B045-B1A7-0001F2732400}
+      IID 118
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3390.3472450920558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6389145-C31C-3641-8403-AFAB33F1757F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3417.5848211023258
+      SNAPOFFS 0
+      LENGTH 54.60534166651541
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A98D5D52-41ED-234D-BC8D-9B44EA791111}
+      IID 141
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3462.6028748474514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E84FB14-F59E-B94A-AE26-187CF2EF35EB}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3472.1901627688412
+      SNAPOFFS 0
+      LENGTH 0.89732009493446
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B72346E2-FCAC-584B-89B8-7A3A9A8A35B3}
+      IID 153
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3518.8798507010488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D43C840F-96C5-D441-8120-AC4301E42E59}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3473.0874828637761
+      SNAPOFFS 0
+      LENGTH 5.28418050656319
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7B31D756-F65C-1344-BD9A-AED08A9185FB}
+      IID 161
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3533.5072885946711
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2710CFB2-61F2-E04B-A88D-333D73502347}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3478.3716633703389
+      SNAPOFFS 0
+      LENGTH 6.07259110143605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {862AB2E1-BBB0-8342-9966-A17F3C130B9B}
+      IID 173
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3540.7062500791644
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF3E1DE4-6D5C-D341-BEEE-B1EE1B6721D8}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3484.4442544717749
+      SNAPOFFS 0
+      LENGTH 9.69173466245411
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A77A914F-FB5C-8F4E-B195-18B60FCDFD8A}
+      IID 181
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3547.7453496742228
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09759D95-A923-104D-BF20-C92B42DACBFD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3494.135989134229
+      SNAPOFFS 0
+      LENGTH 7.86475782388015
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E1ED48B-2AED-C441-B02E-6E910CDFEA57}
+      IID 189
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3558.3354634868997
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE61AD1F-C710-6740-9466-3B2856404040}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3502.0007469581096
+      SNAPOFFS 0
+      LENGTH 1.02446745200859
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1291D19A-17F2-BE41-8E8D-2C5FCACCE244}
+      IID 197
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3566.8937069706008
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EF8FFC4-997C-164F-8FB7-59EA9781A535}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3503.0252144101178
+      SNAPOFFS 0
+      LENGTH 5.26857284909147
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F9E272DC-78B8-4B43-A436-A727E8F28844}
+      IID 208
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3579.892679399466
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6F4AF7C-7724-EB4E-914D-0FA4AD9F2F28}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3508.2937872592092
+      SNAPOFFS 0
+      LENGTH 10.71452657524196
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {66BC4E6E-82DB-8142-BDFF-06624BD2FFA5}
+      IID 213
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3587.0871261860393
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0923561B-2A3B-B242-BF6E-AB4556FD74D2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3519.0083138344517
+      SNAPOFFS 0
+      LENGTH 15.77009798038353
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AC7F915D-D585-D744-9B66-36A812A385B4}
+      IID 221
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3598.3143241651505
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F6812F2-97E8-9349-A309-F5C10F69011E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3534.7784118148347
+      SNAPOFFS 0
+      LENGTH 3.37824772121849
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D92D0D85-7FEF-5443-890B-2D5F98FCE4C9}
+      IID 233
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3616.0531201794029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B21B48B1-3A6E-8E44-ADF3-825AAB714750}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3538.1566595360537
+      SNAPOFFS 0
+      LENGTH 7.27413017391336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB87E178-36B6-394F-8E8D-30C842A92598}
+      IID 245
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3620.7935645624029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F61BEC8-127F-1648-A15F-94D5AD730DDF}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3545.430789709967
+      SNAPOFFS 0
+      LENGTH 19.33655504671469
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F39830ED-3659-DC4C-9A4F-42906DA6FE15}
+      IID 253
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3628.9939884663281
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA0D495A-C875-A842-80DF-5E98B7FCE549}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3564.7673447566813
+      SNAPOFFS 0
+      LENGTH 3.92126940510116
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {966B374E-9CC3-2047-9CF6-5B63117F0780}
+      IID 261
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3649.5196375154405
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5550D776-C214-E340-9F83-6FEA6AE6BEF9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3568.6886141617824
+      SNAPOFFS 0
+      LENGTH 2.16076525702465
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD9DC365-C1FD-CB4B-A0E7-52578E851977}
+      IID 269
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3654.8324435881868
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01C5C0B5-D192-AD40-983B-0F852FBC7E50}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3570.8493794188071
+      SNAPOFFS 0
+      LENGTH 11.44245195896565
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E14011DB-41A3-C641-9E80-8E4DEB6B2888}
+      IID 277
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3657.8786366753698
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB8F16AE-BC0C-BB4E-BE00-D01468D16A21}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3582.2918313777727
+      SNAPOFFS 0
+      LENGTH 2.80612512326979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC8E0699-06FD-B84C-ABD1-A7482C80449A}
+      IID 285
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3671.2826518273009
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C01E127-FAE1-A34A-AF55-C1A08867F4AA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.097956501043
+      SNAPOFFS 0
+      LENGTH 0.81731799706904
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C9D800F-CCBC-2943-B91D-F8A9A1D0C80E}
+      IID 293
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3675.1376683801427
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCFDC5BE-2900-D741-B626-F0A6C15EF1BA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.915274498112
+      SNAPOFFS 0
+      LENGTH 1.05343208510931
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DFC8875D-9898-C74A-A81D-E9FD29157B57}
+      IID 301
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3677.0038778067837
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA694A9B-2F8B-FC43-AE5F-0D4C738D08D9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3586.9687065832213
+      SNAPOFFS 0
+      LENGTH 1.28651906946061
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {966061CC-B4B0-F14B-9339-CCC2DD69E6C6}
+      IID 309
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3679.0032797959084
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FF9E0FE-8DEC-0E40-878B-E5D63D464D83}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3588.2552256526815
+      SNAPOFFS 0
+      LENGTH 6.80603981099785
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {67118E64-5F82-7240-831E-B39B2F2469CF}
+      IID 317
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3680.9992762933803
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B4A6614-CBFC-AA40-963C-9D15471D90AF}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3595.0612654636798
+      SNAPOFFS 0
+      LENGTH 1.06235824301757
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5B3BD128-B465-7B47-B44B-DD4FA6CB27F8}
+      IID 333
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3688.3305355298576
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FEB2DE2-D0C2-2F4D-A82C-A8CA30FCBB69}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3596.1236237066969
+      SNAPOFFS 0
+      LENGTH 7.93568141124479
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {256AC7AB-956C-0E49-BC67-3D401A8FFA30}
+      IID 325
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3691.1331750214795
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB4B4B1F-AB19-2F4F-81AA-C8352C0F6E9A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3604.0593051179421
+      SNAPOFFS 0
+      LENGTH 4.53467872235888
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5FEAFD8-0E15-0D4C-8DC6-590F4C6ED69F}
+      IID 341
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3699.8666818401953
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {955B163E-BEE9-1148-B7CC-8A38101B0D7B}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3608.593983840301
+      SNAPOFFS 0
+      LENGTH 8.60841843461731
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F1F64CA2-EC56-5E4B-9A88-9D714BE429F4}
+      IID 345
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3705.4856470106797
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C20859C3-E67F-6249-8B8B-4755D7493EE1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3617.2024022749183
+      SNAPOFFS 0
+      LENGTH 70.90634010720214
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {174DD11C-A0AB-7946-8A52-6ECA6C3E2AA6}
+      IID 353
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3714.7870337992149
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00159629-4D2B-C44C-A7EB-6A99930094BA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3695.0249197840049
+      SNAPOFFS 0
+      LENGTH 54.08769359752523
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {335AAA27-7C2B-7846-B200-F406F7FD3023}
+      IID 361
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3792.6095513083014
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F76B0E4-4CD0-1346-97CC-CDACF215B1A4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3753.0955068717749
+      SNAPOFFS 0
+      LENGTH 2.93788601822826
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {21953B2B-D023-1A45-9E7C-E704CA3FC117}
+      IID 364
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3850.6801383960719
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87A6D161-06B0-7543-B89C-9A9542A4AB22}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 3756.0333928900036
+      SNAPOFFS 0
+      LENGTH 719.04852817787605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1AAE3D94-2B00-9F46-9926-88810D9848B3}
+      IID 366
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3855.3757549418524
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {606F5DA8-A690-1B43-8466-44B9EB38280A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 4475.0819210678801
+      SNAPOFFS 0
+      LENGTH 1.20415259619494
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FEA6FFA2-80F2-A549-A3A0-8BFFA8671FA4}
+      IID 379
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4575.1274052608596
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84C955B3-7D8D-2345-97FA-EE2BD8488524}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 4476.286073664076
+      SNAPOFFS 0
+      LENGTH 1002.278305867384
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E1D0250-E838-A54B-A2FB-E70B50D6C97F}
+      IID 387
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4576.9726055882102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAF84C49-3D5D-1E44-9CC2-3A5B82F9D6E8}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5478.56437953146
+      SNAPOFFS 0
+      LENGTH 2.1089553098027
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FEB19FB2-3A63-244E-84F0-0A233ADA3FAB}
+      IID 455
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5579.8285729462214
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0549772-ACFE-C941-A81A-CBBE93D59C5E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5480.6733348412627
+      SNAPOFFS 0
+      LENGTH 21.5490834400216
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {16BB55AE-1DAC-F846-838B-A7039753270A}
+      IID 457
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5584.8599037517424
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4491585-E177-454D-9E55-C724702C387C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5502.2224182812843
+      SNAPOFFS 0
+      LENGTH 1.58755266276512
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF27EA3A-5FDB-A343-AF9A-94A8AF2F9278}
+      IID 463
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5608.4709824202082
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E3B3D8-193A-094B-B0A4-B8FA806FB74D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5503.8099709440494
+      SNAPOFFS 0
+      LENGTH 7.39483751045736
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {428EA51E-BF66-7E49-9B66-BAF7069BBF76}
+      IID 469
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5610.5509073344419
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85299837-4939-C34C-864C-865D704D5577}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5511.2048084545067
+      SNAPOFFS 0
+      LENGTH 33.73191376067371
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5114953B-736D-F24C-B4A1-C3C6DA63B060}
+      IID 475
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5619.7817679935151
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1CE0484-1EE1-6D4C-BDB9-C0B46F61A4D1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5544.9367222151805
+      SNAPOFFS 0
+      LENGTH 0.6574275131079
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {06D57694-EF7A-1741-8906-7DD3DD3555F9}
+      IID 478
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5656.6424420932317
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {402167B0-D012-AA41-A09A-3C9192AE11A4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5545.5941497282884
+      SNAPOFFS 0
+      LENGTH 1.68694434595
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {63E776B0-B220-A74B-AC9E-8FC25195DB4E}
+      IID 484
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5657.9079541961592
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE6E4BBD-7662-2A4B-93F5-5A1FAA475530}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5547.2810940742384
+      SNAPOFFS 0
+      LENGTH 347.79117093343939
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {531BCD59-50D0-C04E-A6E8-5F8880EF3A11}
+      IID 490
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5661.1053022006927
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAFBD0EB-1DCD-5E45-B11B-521718E78C21}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5895.0722650076777
+      SNAPOFFS 0
+      LENGTH 14.87052860617587
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0927914B-7315-C042-BC98-4D780FEDF1C0}
+      IID 502
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1.509804 0 1 -1
+      SOFFS 6012.5479999999961
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6F9A3D9-A804-014E-B054-0A745EDB0561}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5909.9427936138536
+      SNAPOFFS 0
+      LENGTH 0.80564998650243
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A6E27E6E-65B4-3748-88F0-6C6F3863D942}
+      IID 504
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6027.8838487016683
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C9A8DB5-DF3A-9D48-921C-016DD4081A54}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5910.748443600356
+      SNAPOFFS 0
+      LENGTH 0.72626861828485
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {58B84743-2FBA-384D-A442-4E70802652E8}
+      IID 514
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6029.0072412086711
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BC7450A-565F-584D-AC81-8858E4020614}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5911.4747122186409
+      SNAPOFFS 0
+      LENGTH 2.10635570109207
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {98749301-56B6-2D4B-834A-5C0832C34A72}
+      IID 511
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6030.3462989736345
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {493DD2EB-BE43-1548-923F-786D3A119ACB}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5913.581067919733
+      SNAPOFFS 0
+      LENGTH 1.89579938074621
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0B4B0DF9-1C50-7544-9A4D-F51C71625741}
+      IID 536
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6034.899625442793
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {691F5026-2989-4649-B2B8-C21308144501}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5915.4768673004792
+      SNAPOFFS 0
+      LENGTH 1.47475336759635
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF617EAD-F996-F941-8B99-D8A9C25E1EBB}
+      IID 507
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6037.476080223968
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA5832BD-AD05-6946-9A19-13AA1D5E6FBC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5916.9516206680755
+      SNAPOFFS 0
+      LENGTH 1.28308746684979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {66293123-BEB2-DC4E-85D0-C75D7B35E94D}
+      IID 509
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6039.5180464252553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78863019-F064-0E48-B774-83C92E5076D5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5918.2347081349253
+      SNAPOFFS 0
+      LENGTH 1.09471796693106
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E10F8890-F2D7-D341-8E0C-042A075C11C2}
+      IID 545
+      NAME auphonic_v1.track01.flac
+      VOLPAN 2.215686 0 1 -1
+      SOFFS 6041.9194141856315
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F360C222-87A8-8648-9169-27C90D2448F5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5919.3294261018564
+      SNAPOFFS 0
+      LENGTH 45.76047925800594
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D7DFD8D-13BA-6541-919A-712980BE7EBB}
+      IID 505
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1.509804 0 1 -1
+      SOFFS 6043.0141321525625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A79E583-A501-AC41-BC9E-EE8AA5B7E0E5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+    <ITEM
+      POSITION 5969.0246612341098
+      SNAPOFFS 0
+      LENGTH 3.93475587424746
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {50A39EB1-5B58-0B41-88CB-1B0EAB818C81}
+      IID 548
+      NAME auphonic_v1.track01.flac
+      VOLPAN 1.509804 0 1 -1
+      SOFFS 6088.7746114105685
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68D5F1F9-7F2D-EB45-AECD-7A4E9425899F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track01.flac"
+      >
+    >
+  >
+  <TRACK {9D9F1B0D-C785-C64E-B8E4-BF14C71E5F63}
+    NAME " Michael"
+    PEAKCOL 33530462
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9D9F1B0D-C785-C64E-B8E4-BF14C71E5F63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyQAAAAEAAAAAABAA
+        IQAAAAUAAAAIAAAAAQAAAP8BifVEYbNA/+hDQJAy/z/BSQwCK4f6PwEIAAAAAQAAAP8mhOdFRo9Auo2CCitI4z//wMqhRbbnPwEIAAAAAQAAAEHbEaYE8TdAAO61oPfG
+        sD4BAAAAAAAQQAEIAAAAAQAAALx+FGCwglpAq0c8Ctag9j+h+X5qvHQAQAEBAAAAAQAAABGxu/hyjsZAwLRbLZjs/z8AXI/C9SjUPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AFQCAABwAQAA
+        AFVsdHJhc2NoYWxsMwAQAAAA
+      >
+      PRESETNAME Ultraschall3
+      FLOATPOS 0 0 0 0
+      FXID {605224B3-892A-5C41-B7FB-F7BC2396A660}
+      WAK 0
+      BYPASS 1 0 0
+      <JS dynamics/Ultraschall_Dynamics ""
+        0.000000 0.000000 188.000000 100.000000 5.000000 250.000000 - - - 0.000000 0.000000 0.000000 -150.000000 -16.000000 -60.000000 16.000000 0.266000 -112.014306 48.000000 9.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      <JS_SER
+        AAB6QwAAAACCEt6+ghJev+GNpr+CEt6/kcsKwOGNJsAxUELAghJewNLUecCRy4rAuayYwOGNpsAJb7TAMVDCwFkx0MCCEt7AqvPrwNLU+cD92gPBkcsKwSW8EcG5rBjB
+        TZ0fweGNJsF1fi3BCW80wZ1fO8ExUELBxUBJwVkxUMHtIVfBghJewRYDZcGq82vBPuRywdLUecGzYoDB/dqDwUdTh8GRy4rB20OOwSW8kcFvNJXBuayYwQMlnMFNnZ/B
+        lxWjweGNpsErBqrBdX6twb/2sMEJb7TBU+e3wZ1fu8Hn177BMVDCwXvIxcHFQMnBD7nMwVkx0MGjqdPB7SHXwTia2sGCEt7BzIrhwRYD5cFge+jBqvPrwfRr78E+5PLB
+        iFz2wdLU+cHksvrB+rX1wVBC78H3cOjBMYjhwZGZ2sF6qdPBBbnMwXnIxcHn177BU+e3wb/2sMErBqrBlxWjwQMlnMFvNJXB20OOwUdTh8GzYoDBPuRywRYDZcHtIVfB
+        xUBJwZ1fO8F1fi3BTZ0fwSW8EcH92gPBqvPrwFkx0MAJb7TAuayYwNLUecAxUELAkcsKwOGNpr9tTR6/Ji6dvh9Bl72wYYU7PVydPSCmPD6qQa0+KGALP/g1Tj9m348/
+        tznAP29T+D8CIBxAtfw/QFauZ0DJiYlAFv2gQD8PukDDldRA2V3wQJeWBkGAYRVBxmwkQd+TM0GIsUJBvqBRQbM9YEG2Zm5B9Px7QZFyhEH3g4pBJSmQQcJalUGcE5pB
+        jlCeQVcQokFqU6VBtRuoQWJsqkGcSaxBW7itQSe+rkHrYK9Bz6avQQ2Wr0HbNK9BTomuQUmZrUFxaqxBIgKrQWZlqUH3mKdBO6GlQUKCo0HMP6FBS92eQeVdnEF5xJlB
+        pxOXQctNlEEPdZFBYouOQYaSi0ERjIhBbnmFQeZbgkE9aX5BQgl4QbSZcUE8HGtBVpJkQVj9XUFxXldBs7ZQQREHSkFlUENBcJM8QeLQNUFUCS9BUj0oQVdtIUHRmRpB
+        IsMTQaLpDEGfDQZBwV7+QEWe8EA72uJABhPVQP1Ix0BwfLlApa2rQNrcnUBHCpBAHTaCQBLBaEBlE01AeGMxQIqxFUCm+/M/C5G8P5kjhT9DZxs/SgsyPkHLhL6mUTG/
+        biCQv3OZx7+9E/+/k0cbwMkFN8BxxFLAf4NuwHQhhcBRAZPAUuGgwHPBrsCxobzACILKwHZi2MD4QubAjSP0wBkCAcFy8gfB0uIOwTfTFcGiwxzBEbQjwYSkKsH7lDHB
+        dYU4wfF1P8FxZkbB8lZNwXZHVMH7N1vBgihiwQsZacGUCXDB/kJ1wV2bdsEAAAAAAADYwg==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1EED60FE-A170-F842-9A26-6434E6D7A7DB}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 132.14284706195181
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {28DF8787-8C59-CF49-B6F5-DD5B8439961D}
+      IID 2
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD53E05B-7AA0-AA48-891E-59B583D7B560}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 162.30813765611452
+      SNAPOFFS 0
+      LENGTH 48.05395602567773
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5FC59E38-E695-FB49-AC10-AFFBAA0BBFF3}
+      IID 395
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 162.30813765611452
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA2E9584-25F1-0D49-9AFD-3EE4064F758C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 270.72467768916511
+      SNAPOFFS 0
+      LENGTH 129.11582843654151
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {61C87C59-51F9-0C48-A60D-E4506632F78F}
+      IID 396
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 276.16270467173297
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEE2C8E8-693F-6349-9668-01C09B3EF782}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 399.84050612570661
+      SNAPOFFS 0
+      LENGTH 15.47575579527683
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1CC56E69-7636-4842-B71B-5F72B4621BB4}
+      IID 426
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 407.3022079862647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D7D0863-D836-9C40-8173-7E03A94011A0}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 415.31626192098344
+      SNAPOFFS 0
+      LENGTH 5.66910324439226
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4135B538-7C41-084B-9A0F-FD0E0D70AF32}
+      IID 440
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 425.00080799509908
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D4524B2-CE51-F443-ADB1-0EB3D5936DDB}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 420.9853651653757
+      SNAPOFFS 0
+      LENGTH 1.21005404520724
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7E124404-A62E-7B48-80DB-073609D5D589}
+      IID 441
+      NAME auphonic_v1.track02.flac
+      VOLPAN 4.529412 0 1 -1
+      SOFFS 430.66991123949134
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80ED571F-AAB2-3549-953C-4235B52B8E03}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 422.19541921058294
+      SNAPOFFS 0
+      LENGTH 8.39969238028203
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E7BD70F6-E3A8-9344-A9DD-8491ADBA0517}
+      IID 442
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 431.87996528469859
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68973DDB-B31A-2E4A-BD30-EA1A13DD5E3A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 430.59511159086497
+      SNAPOFFS 0
+      LENGTH 15.4085085204581
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C737777-7541-7646-B735-D72A3AEF37E6}
+      IID 16
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 441.02109926657039
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82B7F73E-F9A8-5D4B-9A03-EF1D4F768CA2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.00362011132307
+      SNAPOFFS 0
+      LENGTH 0.38583020346408
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62A3E4A5-3629-5B4C-A426-A007640E53B0}
+      IID 23
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 458.72189311349172
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9E03932-EC87-7147-870C-AB0176567AEC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.3894503147871
+      SNAPOFFS 0
+      LENGTH 6.7803984285236
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C3E5FAE-F233-5E4E-8BD9-32034591D343}
+      IID 30
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 459.74320835795555
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D17A8D72-EB8C-5B43-A250-5EAF4C26E0E0}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 453.16984874331075
+      SNAPOFFS 0
+      LENGTH 674.74627120282605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB073C7E-F13B-C642-9A71-CF3B5AA9B31C}
+      IID 38
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 467.65840150255002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5E200A7-F16F-DF4F-BA00-6A4D6B3AE6AD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 1144.6294561416576
+      SNAPOFFS 0
+      LENGTH 16.18266121629085
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2B0AAD6-C6D2-3740-A613-BD425485757A}
+      IID 44
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1159.1180089008969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {694517CC-BA3E-814D-BCBE-06529CD51520}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 1160.8121173579484
+      SNAPOFFS 0
+      LENGTH 257.6116392098761
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CCCB301A-B5D5-2046-8A71-7B04A59118C8}
+      IID 57
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1178.6060268155784
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E77BA197-8B76-9441-A7D7-4EAD8F98BA73}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 1427.0982624634335
+      SNAPOFFS 0
+      LENGTH 503.03281892488485
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FE76776-8F28-BA41-B6B5-58A6B49BF512}
+      IID 59
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1444.8921719210634
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5C72A67-F5B1-4D41-8164-E0AE5F159F3E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 1949.9328305660301
+      SNAPOFFS 0
+      LENGTH 140.55917574684372
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {712AA796-6917-FB42-A857-E5505F26F1D3}
+      IID 60
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1967.7267400236603
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5CF0E4A-FF67-224D-AC50-48FBD4B80111}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2095.206614356568
+      SNAPOFFS 0
+      LENGTH 350.86041711782309
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F2709FE-394C-7E46-B6BB-625763865079}
+      IID 61
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2113.000523814198
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57780C7F-AEA4-4D43-9BD8-C711111CC41E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2446.0670314743911
+      SNAPOFFS 0
+      LENGTH 357.13610995145154
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EBAF2780-DCD9-7D4A-AA0A-1426759C9CC2}
+      IID 68
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2468.0696709188478
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BB712D6-410F-C049-9EB2-836F1FD9B396}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2803.2031414258427
+      SNAPOFFS 0
+      LENGTH 3.42314295047299
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F73A8D8F-3900-D145-B94B-C5A4C7EF0CD6}
+      IID 76
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2830.3211341719161
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1405A1E3-338C-844F-89E8-A2262BD3C879}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2806.6262843763152
+      SNAPOFFS 0
+      LENGTH 7.71660406927822
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {446A1981-1421-184F-A1A6-7355EB8E3AE6}
+      IID 85
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2834.8563759441386
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {443D10B9-AE18-4F40-BB2B-35364E857112}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2814.3428884455934
+      SNAPOFFS 0
+      LENGTH 6.71722213708927
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {454867E6-F0D8-B842-9511-2D2AD19F09A9}
+      IID 91
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2843.7758624124522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06C4BC1D-49A3-DE49-B55C-C58E0AB5E0B8}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 2821.0601105826827
+      SNAPOFFS 0
+      LENGTH 512.55904187308124
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0DB6D54-5A79-8942-8759-98BDEF237183}
+      IID 98
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2852.3931880870819
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61E1EDEF-334A-D24E-A5C4-C53AAEF0C597}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3333.6191524557644
+      SNAPOFFS 0
+      LENGTH 2.110530636779
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7AF8F704-CFD9-B74A-B01F-D743BB6AE848}
+      IID 107
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3370.3218447857703
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEFACB47-FE07-E345-94C1-13069F61A9F4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3335.7296830925434
+      SNAPOFFS 0
+      LENGTH 10.14126657093402
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD8DDEAE-E936-974C-9C05-9265890C83AF}
+      IID 110
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3374.2313366729113
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C525A671-563A-8F48-9D0A-1A53AA5C1E2B}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3345.8709496634774
+      SNAPOFFS 0
+      LENGTH 71.71387143884886
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3028C58-EEA3-BE46-896F-A3E70762020C}
+      IID 125
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.4265040535497
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {261EA7C8-F56C-A54E-A2D8-CDAB550DEB07}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3427.2760873800935
+      SNAPOFFS 0
+      LENGTH 43.71200495861285
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F62F23A6-6985-C34C-AEB2-7500D5695876}
+      IID 142
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3472.2941411252191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E241C4DD-82F8-5745-8AB8-6CBC041DA3FD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3471.0477304462129
+      SNAPOFFS 0
+      LENGTH 1.14243232262879
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.264872 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0C320E0-83D2-2A4B-B17E-0815DE4ADC2E}
+      IID 147
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3516.0657841913385
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E893E3-37FF-ED46-B6F2-F312A67E7A82}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3472.1901627688412
+      SNAPOFFS 0
+      LENGTH 0.89732009493446
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDAC84E4-4A42-264D-96BA-A915450B7045}
+      IID 154
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3518.8798507010492
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAD223E2-1E99-5846-B24F-C269F324602B}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3473.0874828637761
+      SNAPOFFS 0
+      LENGTH 5.28418050656319
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A15560D7-4905-6344-8BA6-39AF77F11631}
+      IID 162
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3533.5072885946715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB7E82A4-C5A8-9143-B2AF-EF5F40DA5810}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3478.3716633703389
+      SNAPOFFS 0
+      LENGTH 6.07259110143605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1AA4D257-C6A2-1946-B41A-442E9E3C19D0}
+      IID 174
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3540.7062500791649
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F00D366-9E0A-F34E-9316-0C6609DD90F6}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3484.4442544717749
+      SNAPOFFS 0
+      LENGTH 9.69173466245411
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FE504786-588C-5C4A-971F-6A8A8E091A7F}
+      IID 182
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3547.7453496742232
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2106A72-9C10-8747-966B-27626225EE82}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3494.135989134229
+      SNAPOFFS 0
+      LENGTH 7.86475782388015
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3B9E4B7A-C1D0-CE45-8F68-3F04AF434261}
+      IID 190
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3558.3354634869002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04664F6A-380D-7D4E-99A5-BE0009C85F14}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3502.0007469581096
+      SNAPOFFS 0
+      LENGTH 1.02446745200859
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75BD947A-37FA-B24C-8E87-2A917CFBD5FD}
+      IID 198
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3566.8937069706012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A24589C-0DCC-8449-B42F-CCEA6C2FB5AD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3503.0252144101178
+      SNAPOFFS 0
+      LENGTH 5.26857284909147
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1D35D241-A384-B147-9279-ABF13F6E3676}
+      IID 209
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3579.8926793994665
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F101A5B-7B1D-C649-8296-D7B9A9412F15}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3508.2937872592092
+      SNAPOFFS 0
+      LENGTH 10.71452657524196
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6FAE879B-1E54-BA44-9556-A5F75B010C32}
+      IID 217
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3587.0871261860398
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4D8009F-1510-2741-842C-439F080489E3}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3519.0083138344517
+      SNAPOFFS 0
+      LENGTH 15.77009798038353
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A7912A2C-DD6C-E841-8D4E-DEC34C1AB16F}
+      IID 225
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3598.314324165151
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5396CC6-6919-DC4F-909D-0F286E709A84}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3534.7784118148347
+      SNAPOFFS 0
+      LENGTH 3.37824772121849
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {980B2776-E174-9B49-9A33-7CF2B1C01757}
+      IID 234
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3616.0531201794033
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60FEDDCE-A0B6-9A49-B093-C29BE2637432}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3538.1566595360537
+      SNAPOFFS 0
+      LENGTH 7.27413017391336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4C7FC45F-E460-4C47-907F-C81FCB15BA31}
+      IID 246
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3620.7935645624034
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AB8A811-ABBB-874C-870A-6EAD31FAB44D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3545.430789709967
+      SNAPOFFS 0
+      LENGTH 19.33655504671469
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {24053EA4-C4F0-5943-9C07-5D76F6D0CDB0}
+      IID 254
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3628.9939884663286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72F3BED6-2338-9649-A6A5-B52EB61C4C50}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3564.7673447566813
+      SNAPOFFS 0
+      LENGTH 3.92126940510116
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B9FDF098-1197-1F42-986F-5498CA29212C}
+      IID 262
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3649.519637515441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DB42FC5-23F8-BF4D-A5EE-D17D27989596}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3568.6886141617824
+      SNAPOFFS 0
+      LENGTH 2.16076525702465
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {95D3C7DB-B0A6-6B4A-A3F4-83E8215C4C24}
+      IID 270
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3654.8324435881873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C76460F5-3EA0-9D4F-A41A-DA383213739F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3570.8493794188071
+      SNAPOFFS 0
+      LENGTH 11.44245195896565
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {54F68461-3B88-F349-81B2-3A9594E5646A}
+      IID 278
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3657.8786366753702
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5327DE7A-1783-AB40-A854-A1A8479C4EEF}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3582.2918313777727
+      SNAPOFFS 0
+      LENGTH 2.80612512326979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88343F9D-E607-234D-8FCB-2E784FA19B39}
+      IID 286
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3671.2826518273014
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {500E26C9-5663-B942-8ADD-8F358D2ABABD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.097956501043
+      SNAPOFFS 0
+      LENGTH 0.81731799706904
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7E1E3EA2-A837-EB4A-B30E-1706BF122E1F}
+      IID 294
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3675.1376683801432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9724E422-C189-B949-BB2D-63A170C9BAE1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.915274498112
+      SNAPOFFS 0
+      LENGTH 1.05343208510931
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C4B4FDCA-6351-1E4C-BFAD-76895C69CCBF}
+      IID 302
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3677.0038778067842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CADB5028-E68A-C345-9049-93FBDC06D2D1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3586.9687065832213
+      SNAPOFFS 0
+      LENGTH 1.28651906946061
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FBA4781-7C20-784E-958F-9EB0EBF494AD}
+      IID 310
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3679.0032797959088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AF08AE3-2346-4340-829B-B3E7219FC334}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3588.2552256526815
+      SNAPOFFS 0
+      LENGTH 6.80603981099785
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D2E2DF8B-52C9-9E42-9016-D46D0B0793D6}
+      IID 318
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3680.9992762933807
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DED08A5-7391-8F4D-A984-CF1CDCD6DBB5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3595.0612654636798
+      SNAPOFFS 0
+      LENGTH 1.06235824301757
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F4084B1-F70B-704D-A954-0404A4AF2C00}
+      IID 334
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3688.330535529858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0672CBF0-2A08-6841-A74E-94CCF2077FDF}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3596.1236237066969
+      SNAPOFFS 0
+      LENGTH 7.93568141124479
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A8092372-0FE6-0546-8CEB-3D88C8E944A6}
+      IID 326
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3691.1331750214799
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {435CB6D0-C9C7-3648-9F36-39EE20E919AE}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3604.0593051179421
+      SNAPOFFS 0
+      LENGTH 4.53467872235888
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14C7A972-31CC-964B-BF1A-17B301EB5AFD}
+      IID 342
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3699.8666818401957
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5E62A35-EA24-F749-A62F-D31FAD91E1B0}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3608.593983840301
+      SNAPOFFS 0
+      LENGTH 8.60841843461731
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D7A58CAB-A3F6-0342-9C51-12B8FF953030}
+      IID 349
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3705.4856470106802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76E53253-5453-DE4B-91B7-1951FB6000C9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3617.2024022749183
+      SNAPOFFS 0
+      LENGTH 17.65959728232519
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2DBB82A8-AE45-7C4A-B7C8-49E98D730F77}
+      IID 357
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3714.7870337992154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {690716F7-FCED-674B-BB85-4D67BFEE8A6B}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3668.3563822652541
+      SNAPOFFS 0
+      LENGTH 17.05336405759454
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A8E51DF8-CCD4-1D4C-AE96-17CBD0DBEF0A}
+      IID 360
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3765.9410137895511
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54CE8E39-2AEB-F042-A4AE-C86CD07C4F90}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3755.965533063275
+      SNAPOFFS 0
+      LENGTH 0.06785982672818
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D15FC425-E2E0-9F47-AAFD-5DEA85243513}
+      IID 363
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3853.5501645875725
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75CD5609-2BE6-5B4B-B2E9-1A50B2D5DC91}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 3756.0333928900036
+      SNAPOFFS 0
+      LENGTH 719.04852817787605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D5D3C0F-8D09-9C41-974D-C8EB1B2B1E99}
+      IID 371
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3855.3757549418528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9917731F-F975-3C49-912C-5E06A1F65DC2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 4475.0819210678801
+      SNAPOFFS 0
+      LENGTH 1.20415259619494
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.605012 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA49A239-45CA-354D-BE3D-FD7C6A66775A}
+      IID 375
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4575.1274052608605
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8E5A198-A121-F848-9F1B-B21C8BB093C4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 4476.286073664076
+      SNAPOFFS 0
+      LENGTH 638.46111698172444
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 6.268841 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {15E99C28-FA37-9B46-999C-6D7E6A55CDC3}
+      IID 383
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4576.9726055882111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A6B113D-764C-6C43-895E-6FD588953854}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5114.7471906458004
+      SNAPOFFS 0
+      LENGTH 236.26826266337412
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {67AEA8BD-0C5E-1F44-BACC-48B8A5DB91CF}
+      IID 443
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5215.4337225699355
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {211F8797-7495-3F41-A92C-45FF5F8C4FE5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5435.9517855689774
+      SNAPOFFS 0
+      LENGTH 41.36516469556955
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {05E4D4D2-5D0A-354A-8ECE-BA5A389340A0}
+      IID 444
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5536.6383174931125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59F3FC2D-45ED-014C-914D-CD76F0129C9A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5480.6733348412627
+      SNAPOFFS 0
+      LENGTH 21.5490834400216
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {70C11E31-5208-C345-B091-5E1CF6727A88}
+      IID 458
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5584.8599037517433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7021A871-7C87-3A4E-B7FC-3994AA0E05E2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5502.2224182812843
+      SNAPOFFS 0
+      LENGTH 1.58755266276512
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {54176AFB-2C7D-3144-9294-77770B28B147}
+      IID 464
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5608.4709824202091
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {392E5E20-4964-C542-A46D-CF9AC17AE8D2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5503.8099709440494
+      SNAPOFFS 0
+      LENGTH 7.39483751045736
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {42F9FCAA-42B0-A340-88BD-3EFD09CAA7CB}
+      IID 470
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5610.5509073344429
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81B38371-DEBC-3244-84C9-BB7AA34CD082}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5511.2048084545067
+      SNAPOFFS 0
+      LENGTH 33.73191376067371
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2079E523-BA45-B24F-BB50-E48A6A3C9DC4}
+      IID 476
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5619.781767993516
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51DE2B41-B402-BA4C-B8C9-67E916A8066D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5544.9367222151805
+      SNAPOFFS 0
+      LENGTH 0.6574275131079
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51622E5C-B9C9-3D42-8402-578FFDD7ADE3}
+      IID 481
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5656.6424420932326
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9356290B-6883-AF40-B170-8B2EB9A4778D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5545.5941497282884
+      SNAPOFFS 0
+      LENGTH 1.68694434595
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {440BECE0-710A-C944-84F9-7C20191FD528}
+      IID 487
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5657.9079541961601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32A5A8F0-3877-1A43-9992-4908FCBFE35F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5547.2810940742384
+      SNAPOFFS 0
+      LENGTH 56.98054629299895
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19BB2052-2FA5-A547-B640-4CD2973EFD5C}
+      IID 493
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5661.1053022006936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C90F8F-F7CF-3E40-AFA2-8A668E7354D5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5604.2616403672373
+      SNAPOFFS 0
+      LENGTH 5.86279332512913
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E4D08741-DF89-814E-A86A-828BCF2D16F2}
+      IID 495
+      NAME auphonic_v1.track02.flac
+      VOLPAN 3.45098 0 1 -1
+      SOFFS 5718.0858484936925
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3491E7FF-6E6A-5143-AFEA-79A5C378B558}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5610.1244336923664
+      SNAPOFFS 0
+      LENGTH 285.89257125699623
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A7530AC9-F9D0-DA4B-8E38-142C7D63352C}
+      IID 496
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5723.9486418188217
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D01EB13-6D71-E448-BD4E-67A71650CE93}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5896.0170049493627
+      SNAPOFFS 0
+      LENGTH 13.92578866449094
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9A85499A-A3CD-6044-87A9-090285456D18}
+      IID 503
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6013.492739941682
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCDD2467-0C1A-7E45-AFF7-0B9FF07982BC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5909.9427936138536
+      SNAPOFFS 0
+      LENGTH 0.80564998650243
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FC652216-000A-684E-B1F2-ED63D7D54CE1}
+      IID 517
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6027.8838487016692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {312CDF8D-97CD-D44C-9A41-031F84C5B56A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5910.748443600356
+      SNAPOFFS 0
+      LENGTH 0.72626861828485
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {31042DC5-ED54-E34A-BFF1-DAE812137DC4}
+      IID 521
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6029.007241208672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6BEDA3F-0DEC-F348-AACC-D25756270234}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5911.4747122186409
+      SNAPOFFS 0
+      LENGTH 2.10635570109207
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C26E44E-A549-9547-8C68-8D234D639FDB}
+      IID 525
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6030.3462989736354
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1826A4C-812E-5F49-8D9D-869D6BF24E77}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5913.581067919733
+      SNAPOFFS 0
+      LENGTH 1.89579938074621
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1EC28B4-EFBF-A64D-AB1A-6DDB49565E0A}
+      IID 539
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6034.8996254427939
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B278C235-0795-FF4F-B7D5-FF9BE9DBD5FF}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5915.4768673004792
+      SNAPOFFS 0
+      LENGTH 1.47475336759635
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E7BAF8FF-319C-BE4A-ABFD-CD4ECCEF5B0F}
+      IID 529
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6037.4760802239689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57E5A918-7466-F74A-BFFE-CAEE87022DFA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5916.9516206680755
+      SNAPOFFS 0
+      LENGTH 1.28308746684979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D366F49A-4C41-5B4A-83D6-291901F260AC}
+      IID 533
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6039.5180464252562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {161F62C3-A8AB-664B-8DFC-41992A1E70EC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5918.2347081349253
+      SNAPOFFS 0
+      LENGTH 69.46776994595621
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A65DE36-9A01-9D4D-BDE3-87C982708710}
+      IID 546
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6041.9194141856324
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C730CC7-A516-0645-9A9A-3FEB8B0D93AD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 5988.7966386396984
+      SNAPOFFS 0
+      LENGTH 10.47599179738882
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A63C1620-3506-A047-A468-BF99930F2171}
+      IID 562
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6114.5237777335315
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD71EEFF-39BC-F94E-B853-5A74EEF997DE}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+    <ITEM
+      POSITION 6005.0749606254931
+      SNAPOFFS 0
+      LENGTH 18.92425903212643
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C96CF80-CDC4-1340-A942-14CA1FD68C64}
+      IID 572
+      NAME auphonic_v1.track02.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6131.4929291764875
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE73C7D1-122D-DB4D-ACF1-9CBE56EDA8F1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track02.flac"
+      >
+    >
+  >
+  <TRACK {39480420-92D8-1141-AE12-051A705029E5}
+    NAME Andi
+    PEAKCOL 33530462
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39480420-92D8-1141-AE12-051A705029E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyQAAAAEAAAAAABAA
+        IQAAAAUAAAAIAAAAAQAAAP8BifVEYbNA/+hDQJAy/z/BSQwCK4f6PwEIAAAAAQAAAP8mhOdFRo9Auo2CCitI4z//wMqhRbbnPwEIAAAAAQAAAEHbEaYE8TdAAO61oPfG
+        sD4BAAAAAAAQQAEIAAAAAQAAALx+FGCwglpAq0c8Ctag9j+h+X5qvHQAQAEBAAAAAQAAABGxu/hyjsZAwLRbLZjs/z8AXI/C9SjUPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AFQCAABwAQAA
+        AFVsdHJhc2NoYWxsMwAQAAAA
+      >
+      PRESETNAME Ultraschall3
+      FLOATPOS 0 0 0 0
+      FXID {756C2E45-6B21-4844-A870-E5D836D088DA}
+      WAK 0
+      BYPASS 1 0 0
+      <JS dynamics/Ultraschall_Dynamics ""
+        0.000000 0.000000 188.000000 100.000000 5.000000 250.000000 - - - 0.000000 0.000000 0.000000 -150.000000 -16.000000 -60.000000 16.000000 0.266000 -112.014306 48.000000 9.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      <JS_SER
+        AAB6QwAAAACCEt6+ghJev+GNpr+CEt6/kcsKwOGNJsAxUELAghJewNLUecCRy4rAuayYwOGNpsAJb7TAMVDCwFkx0MCCEt7AqvPrwNLU+cD92gPBkcsKwSW8EcG5rBjB
+        TZ0fweGNJsF1fi3BCW80wZ1fO8ExUELBxUBJwVkxUMHtIVfBghJewRYDZcGq82vBPuRywdLUecGzYoDB/dqDwUdTh8GRy4rB20OOwSW8kcFvNJXBuayYwQMlnMFNnZ/B
+        lxWjweGNpsErBqrBdX6twb/2sMEJb7TBU+e3wZ1fu8Hn177BMVDCwXvIxcHFQMnBD7nMwVkx0MGjqdPB7SHXwTia2sGCEt7BzIrhwRYD5cFge+jBqvPrwfRr78E+5PLB
+        iFz2wdLU+cHksvrB+rX1wVBC78H3cOjBMYjhwZGZ2sF6qdPBBbnMwXnIxcHn177BU+e3wb/2sMErBqrBlxWjwQMlnMFvNJXB20OOwUdTh8GzYoDBPuRywRYDZcHtIVfB
+        xUBJwZ1fO8F1fi3BTZ0fwSW8EcH92gPBqvPrwFkx0MAJb7TAuayYwNLUecAxUELAkcsKwOGNpr9tTR6/Ji6dvh9Bl72wYYU7PVydPSCmPD6qQa0+KGALP/g1Tj9m348/
+        tznAP29T+D8CIBxAtfw/QFauZ0DJiYlAFv2gQD8PukDDldRA2V3wQJeWBkGAYRVBxmwkQd+TM0GIsUJBvqBRQbM9YEG2Zm5B9Px7QZFyhEH3g4pBJSmQQcJalUGcE5pB
+        jlCeQVcQokFqU6VBtRuoQWJsqkGcSaxBW7itQSe+rkHrYK9Bz6avQQ2Wr0HbNK9BTomuQUmZrUFxaqxBIgKrQWZlqUH3mKdBO6GlQUKCo0HMP6FBS92eQeVdnEF5xJlB
+        pxOXQctNlEEPdZFBYouOQYaSi0ERjIhBbnmFQeZbgkE9aX5BQgl4QbSZcUE8HGtBVpJkQVj9XUFxXldBs7ZQQREHSkFlUENBcJM8QeLQNUFUCS9BUj0oQVdtIUHRmRpB
+        IsMTQaLpDEGfDQZBwV7+QEWe8EA72uJABhPVQP1Ix0BwfLlApa2rQNrcnUBHCpBAHTaCQBLBaEBlE01AeGMxQIqxFUCm+/M/C5G8P5kjhT9DZxs/SgsyPkHLhL6mUTG/
+        biCQv3OZx7+9E/+/k0cbwMkFN8BxxFLAf4NuwHQhhcBRAZPAUuGgwHPBrsCxobzACILKwHZi2MD4QubAjSP0wBkCAcFy8gfB0uIOwTfTFcGiwxzBEbQjwYSkKsH7lDHB
+        dYU4wfF1P8FxZkbB8lZNwXZHVMH7N1vBgihiwQsZacGUCXDB/kJ1wV2bdsEAAAAAAADYwg==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9D1534D2-2425-8C44-B7F5-28AD6B778127}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 16.3430963402793
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 1.100406 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {68B6005E-3DF8-3C41-8AF5-0B268092BA30}
+      IID 3
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1.833333 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7022267-BC9A-B44C-BC66-AEB0A2ADB156}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 20.49513795125666
+      SNAPOFFS 0
+      LENGTH 195.85687654555241
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {31F7295C-0D9D-504C-B3CE-542F315DD8DD}
+      IID 41
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 20.49513795125666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87BFF7CE-BE47-C444-93EA-AABBB1B41CD6}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 216.35201449680906
+      SNAPOFFS 0
+      LENGTH 2.24130694346917
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {086A9F6C-065E-284D-A1D9-E9D722723005}
+      IID 398
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 217.26381496249016
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91A86399-F7AF-AA42-8BBA-B4F349FBC529}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 218.59332144027823
+      SNAPOFFS 0
+      LENGTH 5.2447125943641
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2465ED6D-63F8-4843-A757-F3032A0CF869}
+      IID 404
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 223.14264758103207
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBC40600-A907-D540-80E4-90EB51892850}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 223.83803403464233
+      SNAPOFFS 0
+      LENGTH 176.00247209106428
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7A872052-A647-384B-967A-551C9F5E601A}
+      IID 410
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 229.27606101721017
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC7654A4-57E6-9841-B74A-C16883F98E9F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 399.84050612570661
+      SNAPOFFS 0
+      LENGTH 10.77131271406489
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4651E02B-A606-714E-A35B-B1B31DFC5988}
+      IID 421
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 407.3022079862647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06EEB85C-3BBA-174D-B94E-E0E78C64A4B9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 411.69683768393935
+      SNAPOFFS 0
+      LENGTH 1.00025174696725
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29AF7BBA-C730-E140-B478-94E92E16A52C}
+      IID 427
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 419.15853954449744
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90436969-74F5-5E4F-84D0-F1EDDD2ED9F1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 412.6970894309066
+      SNAPOFFS 0
+      LENGTH 2.61917249007683
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3CA319CA-6F2E-144F-AD62-104A93FCE6CB}
+      IID 428
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 420.15879129146469
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6785BEB4-9C85-4246-8BFD-03D91C6380A1}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 415.31626192098344
+      SNAPOFFS 0
+      LENGTH 15.27884966988159
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {781A0E91-66FC-314F-A528-BD7860D94449}
+      IID 438
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 425.00080799509908
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDD83E16-1A2C-3742-A05B-6C74D32A24A4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.00362011132307
+      SNAPOFFS 0
+      LENGTH 0.38583020346408
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {41D49795-E929-1940-AEE4-88E9797D6C06}
+      IID 24
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 458.72189311349172
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D499206-8097-EA43-894C-C17DB6E0DFCA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 446.3894503147871
+      SNAPOFFS 0
+      LENGTH 6.7803984285236
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E567C57C-D62A-144F-8444-D8836DFC716B}
+      IID 31
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 459.74320835795555
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA1FD005-341B-5440-8DB1-CC18F87646EA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 453.16984874331075
+      SNAPOFFS 0
+      LENGTH 672.70649418802861
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8336EB34-6F56-C549-9E44-D6248188726A}
+      IID 39
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 467.65840150255002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C09764DE-7B0C-E447-AEF7-57893498B714}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 1129.3498891443369
+      SNAPOFFS 0
+      LENGTH 31.46222821361152
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32830072-6F46-9F42-9655-7A05A11A98C9}
+      IID 45
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1143.8384419035763
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2673D969-4E20-BE48-A3DC-C7C117E35D3D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 1160.8121173579484
+      SNAPOFFS 0
+      LENGTH 1285.2549141164425
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65D458D4-CBAD-4643-AF14-A6C3B5881E02}
+      IID 55
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 1178.6060268155784
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7786F715-730B-4B40-8B52-827ABDBE6298}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 2446.0670314743911
+      SNAPOFFS 0
+      LENGTH 357.13610995145154
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3DF357A1-FAD5-B749-8FA5-0678A1D9ADC5}
+      IID 62
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2468.0696709188478
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38BD8C38-3E7F-C04F-AEDC-5F44FFFD40D8}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 2803.2031414258427
+      SNAPOFFS 0
+      LENGTH 3.42314295047299
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6AC9E229-9E71-ED47-B3DF-F6B720C3BD68}
+      IID 70
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2830.3211341719161
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB391AE6-691D-AA41-8CF0-634785711902}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 2806.6262843763152
+      SNAPOFFS 0
+      LENGTH 2.75566887144942
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F20376DE-6471-C44C-9D05-B17954FE6CF1}
+      IID 80
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2834.8563759441386
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3410289E-8EC3-A24E-83AD-3A718BBA92A5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 2816.7982520804508
+      SNAPOFFS 0
+      LENGTH 4.26185850223192
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {28CDB57D-0660-5A47-AB9B-33240C58F0DD}
+      IID 78
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2846.2312260473095
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76720082-C8EE-7548-8670-5D2E9AD0452C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 2821.0601105826827
+      SNAPOFFS 0
+      LENGTH 512.55904187308124
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {026C3428-4FCB-484F-ACA7-0B412E9306D9}
+      IID 99
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 2852.3931880870819
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07BB97B3-6B07-F044-9549-AE7F23D5FBA9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3333.6191524557644
+      SNAPOFFS 0
+      LENGTH 2.110530636779
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A4AE387-BEFB-CE4E-ABB4-8A3C8B63113B}
+      IID 102
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3370.3218447857703
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED3CF32E-C4D7-FE4E-9424-7B172FB8013F}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3335.7296830925434
+      SNAPOFFS 0
+      LENGTH 10.14126657093402
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1E92B7CC-2DBD-9948-8C83-81928B86D62D}
+      IID 115
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3374.2313366729113
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3EDF0F7-F2D0-654D-9D4B-A329E91ED3DC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3345.8709496634774
+      SNAPOFFS 0
+      LENGTH 17.46474219441234
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {30AED9E8-77C8-D147-BA9B-9E72C262AA38}
+      IID 129
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3388.4265040535497
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BF5158C-8245-8D4C-943D-4662F6E3F96E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3363.3356918578893
+      SNAPOFFS 0
+      LENGTH 1.73215065461045
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F7737AD8-6E29-AF43-A0AF-EFD2C5A6B60F}
+      IID 131
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1.319149 0 1 -1
+      SOFFS 3405.891246247962
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D1B1C35-CF59-5D41-9B3A-98615078D850}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3365.0678425124997
+      SNAPOFFS 0
+      LENGTH 52.51697858982607
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7EE99469-4FAC-B643-BF3F-E74D6685C506}
+      IID 132
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3407.6233969025725
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {909C5F60-E9C7-0948-B444-72739664939B}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3417.5848211023258
+      SNAPOFFS 0
+      LENGTH 53.40327123638008
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B91E010F-0D3D-5E47-9A5C-FA8FAA02032D}
+      IID 143
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3462.6028748474519
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CB1696B-E9C8-2747-A2C6-5847F1F6B555}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3471.4275249705943
+      SNAPOFFS 0
+      LENGTH 0.7626377982474
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19FDCEE6-DC48-6B4A-BA22-9A80B5E44EE6}
+      IID 146
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3516.4455787157199
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {797942D2-E638-1D46-83D6-153B75862141}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3472.1901627688412
+      SNAPOFFS 0
+      LENGTH 0.89732009493446
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EBDD94AA-DE6B-AF44-AEAD-F1AACD62F5BD}
+      IID 149
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3518.8798507010492
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA500982-ED47-1C45-926F-8C0E56C54759}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3473.0874828637761
+      SNAPOFFS 0
+      LENGTH 5.28418050656319
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9FB9D4EC-E9FE-184E-A2A7-A639488280DF}
+      IID 157
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3533.5072885946715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B43E7141-4155-0D4F-85F8-3525F449DB26}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3478.3716633703389
+      SNAPOFFS 0
+      LENGTH 6.07259110143605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2819303F-5AD5-394B-879A-DF2BF40BB0EE}
+      IID 169
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3540.7062500791649
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {518669E3-0CDD-B442-936F-4A7A1E1AB260}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3484.4442544717749
+      SNAPOFFS 0
+      LENGTH 9.69173466245411
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7E3FFD9E-9A84-394D-B0F0-3D7E7D636B36}
+      IID 177
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3547.7453496742232
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37BF1BD1-EC89-C04E-8EC6-7CA340378A40}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3494.135989134229
+      SNAPOFFS 0
+      LENGTH 7.86475782388015
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {08A38418-DDEF-2940-80DC-BCAF7709C8CD}
+      IID 185
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3558.3354634869002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4DFD5CC-D4DE-EC44-B4B9-AD02F9FE3C24}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3502.0007469581096
+      SNAPOFFS 0
+      LENGTH 1.02446745200859
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65E4B243-71F1-F84E-A734-AFED69D00A9D}
+      IID 193
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3566.8937069706012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11CC1090-71B9-0A45-9B13-F50B715ADF0E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3503.0252144101178
+      SNAPOFFS 0
+      LENGTH 5.26857284909147
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A58200F8-5165-A24E-9B8B-FB9FBDF37207}
+      IID 210
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3579.8926793994665
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42303B94-00C4-8541-98F1-2B986CEB4DA5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3508.2937872592092
+      SNAPOFFS 0
+      LENGTH 10.71452657524196
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E13AD552-E9D2-754A-B49E-B8502DB9E220}
+      IID 218
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3587.0871261860398
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C4D914C-C889-4940-B993-5DDBED71A716}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3519.0083138344517
+      SNAPOFFS 0
+      LENGTH 15.77009798038353
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B75CDDB1-C53F-F748-8479-732C6F476BE1}
+      IID 226
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3598.314324165151
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D14A41EA-0015-4C40-A2D1-B8B2AAC495E5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3534.7784118148347
+      SNAPOFFS 0
+      LENGTH 3.37824772121849
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {30F12558-9094-4E48-9A06-4FB081474A87}
+      IID 229
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3616.0531201794033
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40C9ED61-9674-1749-9BC1-422B44534BAE}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3538.1566595360537
+      SNAPOFFS 0
+      LENGTH 7.27413017391336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A0CDA422-0C2C-BB4F-A852-7B99D370D81F}
+      IID 241
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3620.7935645624034
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CB23C0F-7741-B242-8C53-AECAA2C4F631}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3545.430789709967
+      SNAPOFFS 0
+      LENGTH 19.33655504671469
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18D9ABB4-202C-5446-8099-7560D21ABB0E}
+      IID 249
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3628.9939884663286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C62F3AE1-6CC6-834A-A835-387254B085A3}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3564.7673447566813
+      SNAPOFFS 0
+      LENGTH 3.92126940510116
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5BE8BCA-0C54-2145-9ECD-A40D1017D244}
+      IID 257
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3649.519637515441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89F64588-F4DF-654E-860D-68AFCC13BEA6}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3568.6886141617824
+      SNAPOFFS 0
+      LENGTH 2.16076525702465
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D948966-5934-4A40-A73D-5B50774C4FD0}
+      IID 265
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3654.8324435881873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DD73CBA-E87F-5049-9346-9DF2618D637A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3570.8493794188071
+      SNAPOFFS 0
+      LENGTH 11.44245195896565
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3AFADC05-804D-2243-BAE5-33BEFE5C446F}
+      IID 273
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3657.8786366753702
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BDC2AD3-DD53-7C4A-B569-27A65DEAE740}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3582.2918313777727
+      SNAPOFFS 0
+      LENGTH 2.80612512326979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5E23D1ED-D228-7047-8188-6C1479E74CCD}
+      IID 281
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3671.2826518273014
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66EC40B7-37B6-164F-ABF2-E64A811CE1E4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.097956501043
+      SNAPOFFS 0
+      LENGTH 0.81731799706904
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.504013 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1F87D0B8-7C06-0043-BAB1-21C40CEEB1E0}
+      IID 289
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3675.1376683801432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDC960F3-F20C-9041-BD35-C615BC296A8C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3585.915274498112
+      SNAPOFFS 0
+      LENGTH 1.05343208510931
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75ED6D57-0B4F-5748-B661-1627ED532AE4}
+      IID 297
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3677.0038778067842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB254CE0-F7AD-9645-BF6C-BF68378BBDFD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3586.9687065832213
+      SNAPOFFS 0
+      LENGTH 1.28651906946061
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7194EFE3-5446-3B44-93C1-6572FE42CA06}
+      IID 305
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3679.0032797959088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2ADC6C9-23E1-F44D-8BF8-4D9F2D093AAC}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3588.2552256526815
+      SNAPOFFS 0
+      LENGTH 6.80603981099785
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2388BA5D-51DF-3040-8B83-97C1CCFAF80F}
+      IID 313
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3680.9992762933807
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B499E1E-70C7-FD43-96A7-B77679583616}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3595.0612654636798
+      SNAPOFFS 0
+      LENGTH 1.06235824301757
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E1BAAA1-BE9D-F344-A7BC-4D31DB330DDD}
+      IID 329
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3688.330535529858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E890A63E-3B0E-6342-A8D7-0EA71F48C03A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3596.1236237066969
+      SNAPOFFS 0
+      LENGTH 7.93568141124479
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E48FB853-1B63-BD46-85B8-D6589BBE74BA}
+      IID 321
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3691.1331750214799
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E5CC130-EA99-484D-A70B-769F89C20997}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3604.0593051179421
+      SNAPOFFS 0
+      LENGTH 4.53467872235888
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF702B0E-B2B4-C146-997B-2C7AB648F7B0}
+      IID 337
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3699.8666818401957
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9349CC66-ECB4-9141-BB43-84C58F75051E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3608.593983840301
+      SNAPOFFS 0
+      LENGTH 8.60841843461731
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0F00ED44-7122-1D43-8174-1066FD79A3F2}
+      IID 350
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3705.4856470106802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {008A2EE0-F875-7D42-BFF9-C5DB5F42D555}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3617.2024022749183
+      SNAPOFFS 0
+      LENGTH 138.83099061508528
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46B2594B-3DA1-FB41-9B95-3E62017CA6DC}
+      IID 358
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3714.7870337992154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4FE78FA-92E6-664A-8B79-05EA76F3D4AD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 3756.0333928900036
+      SNAPOFFS 0
+      LENGTH 719.04852817787605
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CB1C3DF-42FB-BE41-866C-3603E31FFE8E}
+      IID 372
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 3855.3757549418528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EA96DAB-869D-164A-B25F-6DA785F5707A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 4475.0819210678801
+      SNAPOFFS 0
+      LENGTH 1.20415259619494
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ED23C5AF-1915-8C4B-9B47-A4371675EC99}
+      IID 380
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4575.1274052608605
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAC22A95-E567-D846-A7D6-4B0784F60A36}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 4476.286073664076
+      SNAPOFFS 0
+      LENGTH 1000.4447758177012
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB9442EF-C709-1B49-9E69-11E5C4A49BE3}
+      IID 388
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 4576.9726055882111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB9162DA-99D0-4341-9D1D-DC9812FECAC9}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5477.6100006559327
+      SNAPOFFS 0
+      LENGTH 0.95437887552725
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BC719688-CAF5-EC40-80AE-C3F021119CD1}
+      IID 451
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5578.2965325800678
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F6CA876-C821-C145-8380-4ECF577AF512}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5478.56437953146
+      SNAPOFFS 0
+      LENGTH 2.1089553098027
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BB253B3B-6D4D-5C45-8966-799CA2EB0365}
+      IID 453
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5579.8285729462223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0AD9112-14CA-F549-90D5-630D66889CC2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5480.6733348412627
+      SNAPOFFS 0
+      LENGTH 21.5490834400216
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F6627EA-FCA9-314C-BF39-2517C8AF0E83}
+      IID 456
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5584.8599037517433
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07CDD401-8F5D-BD43-A781-2D03EAEB7E46}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5502.2224182812843
+      SNAPOFFS 0
+      LENGTH 1.58755266276512
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1AF925A1-49BC-AA41-9968-633C746C9739}
+      IID 460
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5608.4709824202091
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3357A2F2-AD7D-9E42-A29C-CAF402519039}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5503.8099709440494
+      SNAPOFFS 0
+      LENGTH 7.39483751045736
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D226E5F-70A8-DC4A-958F-2DE8423057D7}
+      IID 466
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5610.5509073344429
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EA1B9A9-29B6-AA4F-BCF5-D9FC3E895768}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5511.2048084545067
+      SNAPOFFS 0
+      LENGTH 33.73191376067371
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20F6AB76-BEB5-E346-BFDF-E40D909EB4DE}
+      IID 472
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5619.781767993516
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF42573B-DE2B-6E43-84C0-8E4E4EEDA250}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5544.9367222151805
+      SNAPOFFS 0
+      LENGTH 0.6574275131079
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1334F0B8-02A3-524A-BD61-5DF631B4A977}
+      IID 482
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5656.6424420932326
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {655B7F0C-E5F4-B249-B614-8D22CA97AD66}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5545.5941497282884
+      SNAPOFFS 0
+      LENGTH 1.68694434595
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9897762F-CBB2-8445-84AA-BE775EC0FA52}
+      IID 488
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5657.9079541961601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D8D600D-BD28-104E-AE62-24C7DCEE3561}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5547.2810940742384
+      SNAPOFFS 0
+      LENGTH 193.88837340577993
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A1A9188D-78B0-7641-B95E-88ED7E046757}
+      IID 494
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5661.1053022006936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EAB7E41-FE6C-6949-A733-2B83F7539BF4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5741.1694674800183
+      SNAPOFFS 0
+      LENGTH 153.90279752765946
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 3.047675 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1B5FC345-1CC5-A94D-B9BD-2B630D22A091}
+      IID 497
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 5854.9936756064735
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E4AC423-895A-6C46-92A8-E3ED808BEE8A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5895.0722650076777
+      SNAPOFFS 0
+      LENGTH 14.87052860617587
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {92715388-A0CA-C94E-B107-0A7A42157406}
+      IID 499
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6012.547999999997
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9579C0BE-E43D-1140-B0E9-838D25C25E64}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5909.9427936138536
+      SNAPOFFS 0
+      LENGTH 0.80564998650243
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6AE10EB-2958-5647-ACC3-B9B0198E3B80}
+      IID 518
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6027.8838487016692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1B5F0C9-4836-8647-BDAA-C99404ACC2BA}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5910.748443600356
+      SNAPOFFS 0
+      LENGTH 0.72626861828485
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {94D08B9A-4434-CD44-9CFE-4505020BB77D}
+      IID 522
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6029.007241208672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43A5FE6C-5DF0-CC4E-A94D-7F2DB0F2D7E2}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5911.4747122186409
+      SNAPOFFS 0
+      LENGTH 2.10635570109207
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25145ABE-832E-EB41-AC15-892E0A60DC96}
+      IID 526
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6030.3462989736354
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDC05AA2-844B-E642-B0C1-D4446F7C00A4}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5913.581067919733
+      SNAPOFFS 0
+      LENGTH 1.89579938074621
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C26553BF-32FA-2749-B154-1CA0357C00B6}
+      IID 540
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6034.8996254427939
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09824284-890A-5945-991E-903443C98420}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5915.4768673004792
+      SNAPOFFS 0
+      LENGTH 1.47475336759635
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E5274246-2FD4-E343-A329-46F531603060}
+      IID 530
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6037.4760802239689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D705D23-382B-A345-8D55-CFD2C0AA5A66}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5916.9516206680755
+      SNAPOFFS 0
+      LENGTH 1.28308746684979
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1085EE00-126E-C046-A27F-B07D45948C59}
+      IID 534
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6039.5180464252562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04780889-39ED-2148-8E16-51546499F463}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5918.2347081349253
+      SNAPOFFS 0
+      LENGTH 36.9620555907386
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F40FDBDB-94A8-7B42-BA8A-E5E5B84A8F7D}
+      IID 542
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6041.9194141856324
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D32013FC-413F-1943-99F4-7074FCD46FE5}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5956.5297592618635
+      SNAPOFFS 0
+      LENGTH 24.47926485191147
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F60510EA-E09A-BC44-83C2-80D35389A9F8}
+      IID 547
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6080.2144653125706
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3C61E97-18EE-AA4F-AAAD-D8FC28931344}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5981.0090241137741
+      SNAPOFFS 0
+      LENGTH 8.04291865631512
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 1.725053 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EB7F43C1-EABC-6F44-A6EC-540C8BE5A14B}
+      IID 392
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6104.6937301644821
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C2784C6-143B-9641-8C43-2723340CAB42}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5989.0519427700892
+      SNAPOFFS 0
+      LENGTH 0.0747265700511
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA3F360F-696C-FC4D-AA1C-6D7A006A0CC1}
+      IID 563
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6112.7366488207972
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD71FF67-49F3-304F-A616-9BF05746E63C}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5989.1420239893196
+      SNAPOFFS 0
+      LENGTH 0.28070956345891
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {690E4298-3E33-A640-B052-80EF2F3F3FE2}
+      IID 567
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6112.8267300400275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91BB0B58-23CE-B64A-8370-CE957B936B91}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5993.4655760410978
+      SNAPOFFS 0
+      LENGTH 6.02493302893618
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CB46B9CD-426F-0648-B462-F5C5B1649839}
+      IID 559
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6119.1927151349309
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B5A4A72-3250-1444-AF36-E7C6A19205CB}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 5999.490509070034
+      SNAPOFFS 0
+      LENGTH 2.61334241355326
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.561497 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1123BB9-1480-B941-BB71-F520F066509B}
+      IID 394
+      NAME auphonic_v1.track03.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 6125.2176481638671
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58AC0A11-4B01-434E-A14D-EB7DAE71D4C6}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+    <ITEM
+      POSITION 6005.0749606254931
+      SNAPOFFS 0
+      LENGTH 18.92425903212643
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5FBC92F-E5D8-B449-8EE3-9ACB0B6502A2}
+      IID 573
+      NAME auphonic_v1.track03.flac
+      VOLPAN 0.627451 0 1 -1
+      SOFFS 6131.4929291764875
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7791ECE-B2EB-DC43-9240-58FFB856454A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track03.flac"
+      >
+    >
+  >
+  <TRACK {AE1B34D4-A904-6F4C-90F0-1D2CA40384C6}
+    NAME Einspieler
+    PEAKCOL 33530462
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AE1B34D4-A904-6F4C-90F0-1D2CA40384C6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyQAAAAEAAAAAABAA
+        IQAAAAUAAAAIAAAAAQAAAP8BifVEYbNA/+hDQJAy/z/BSQwCK4f6PwEIAAAAAQAAAP8mhOdFRo9Auo2CCitI4z//wMqhRbbnPwEIAAAAAQAAAEHbEaYE8TdAAO61oPfG
+        sD4BAAAAAAAQQAEIAAAAAQAAALx+FGCwglpAq0c8Ctag9j+h+X5qvHQAQAEBAAAAAQAAABGxu/hyjsZAwLRbLZjs/z8AXI/C9SjUPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AFQCAABwAQAA
+        AFVsdHJhc2NoYWxsMwAQAAAA
+      >
+      PRESETNAME Ultraschall3
+      FLOATPOS 0 0 0 0
+      FXID {EB387FFC-1604-5542-8C40-295843E8C973}
+      WAK 0
+      BYPASS 1 0 0
+      <JS dynamics/Ultraschall_Dynamics ""
+        0.000000 0.000000 188.000000 100.000000 5.000000 250.000000 - - - 0.000000 0.000000 0.000000 -150.000000 -16.000000 -60.000000 16.000000 0.266000 -112.014306 48.000000 9.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      <JS_SER
+        AAB6QwAAAACCEt6+ghJev+GNpr+CEt6/kcsKwOGNJsAxUELAghJewNLUecCRy4rAuayYwOGNpsAJb7TAMVDCwFkx0MCCEt7AqvPrwNLU+cD92gPBkcsKwSW8EcG5rBjB
+        TZ0fweGNJsF1fi3BCW80wZ1fO8ExUELBxUBJwVkxUMHtIVfBghJewRYDZcGq82vBPuRywdLUecGzYoDB/dqDwUdTh8GRy4rB20OOwSW8kcFvNJXBuayYwQMlnMFNnZ/B
+        lxWjweGNpsErBqrBdX6twb/2sMEJb7TBU+e3wZ1fu8Hn177BMVDCwXvIxcHFQMnBD7nMwVkx0MGjqdPB7SHXwTia2sGCEt7BzIrhwRYD5cFge+jBqvPrwfRr78E+5PLB
+        iFz2wdLU+cHksvrB+rX1wVBC78H3cOjBMYjhwZGZ2sF6qdPBBbnMwXnIxcHn177BU+e3wb/2sMErBqrBlxWjwQMlnMFvNJXB20OOwUdTh8GzYoDBPuRywRYDZcHtIVfB
+        xUBJwZ1fO8F1fi3BTZ0fwSW8EcH92gPBqvPrwFkx0MAJb7TAuayYwNLUecAxUELAkcsKwOGNpr9tTR6/Ji6dvh9Bl72wYYU7PVydPSCmPD6qQa0+KGALP/g1Tj9m348/
+        tznAP29T+D8CIBxAtfw/QFauZ0DJiYlAFv2gQD8PukDDldRA2V3wQJeWBkGAYRVBxmwkQd+TM0GIsUJBvqBRQbM9YEG2Zm5B9Px7QZFyhEH3g4pBJSmQQcJalUGcE5pB
+        jlCeQVcQokFqU6VBtRuoQWJsqkGcSaxBW7itQSe+rkHrYK9Bz6avQQ2Wr0HbNK9BTomuQUmZrUFxaqxBIgKrQWZlqUH3mKdBO6GlQUKCo0HMP6FBS92eQeVdnEF5xJlB
+        pxOXQctNlEEPdZFBYouOQYaSi0ERjIhBbnmFQeZbgkE9aX5BQgl4QbSZcUE8HGtBVpJkQVj9XUFxXldBs7ZQQREHSkFlUENBcJM8QeLQNUFUCS9BUj0oQVdtIUHRmRpB
+        IsMTQaLpDEGfDQZBwV7+QEWe8EA72uJABhPVQP1Ix0BwfLlApa2rQNrcnUBHCpBAHTaCQBLBaEBlE01AeGMxQIqxFUCm+/M/C5G8P5kjhT9DZxs/SgsyPkHLhL6mUTG/
+        biCQv3OZx7+9E/+/k0cbwMkFN8BxxFLAf4NuwHQhhcBRAZPAUuGgwHPBrsCxobzACILKwHZi2MD4QubAjSP0wBkCAcFy8gfB0uIOwTfTFcGiwxzBEbQjwYSkKsH7lDHB
+        dYU4wfF1P8FxZkbB8lZNwXZHVMH7N1vBgihiwQsZacGUCXDB/kJ1wV2bdsEAAAAAAADYwg==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F2D14416-CB59-1E45-84C4-CE8ACEE59BDF}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 216.35201449680906
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {5BF1E994-6748-4E40-9BA2-3A3337362FF1}
+      IID 4
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.882353 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {171E2A27-7543-7E42-B5F2-1654D43A6C4A}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 216.35201449680906
+      SNAPOFFS 0
+      LENGTH 2.24130694346917
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {C1F79849-A29B-9940-BD4B-68B0810A5152}
+      IID 402
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.882353 0 1 -1
+      SOFFS 217.26381496249016
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE500299-2432-C04D-8CC6-EDDFEBA27E12}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 218.59332144027823
+      SNAPOFFS 0
+      LENGTH 5.11198601129001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {10D6DE97-AFF5-8642-954F-E111BE8DEF82}
+      IID 408
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.882353 0 1 -1
+      SOFFS 223.14264758103207
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB17D8E2-C869-2B49-883E-73AAD9D5CD7E}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 5895.0722650076777
+      SNAPOFFS 0
+      LENGTH 61.34692050224112
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 4.513757 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {E5546C53-D8F1-B542-927A-69AFF5082863}
+      IID 391
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.189189 0 1 -1
+      SOFFS 6018.7569710583839
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72B00AC8-5602-3E4F-BA7B-4BAC2755884D}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 5956.4191855099189
+      SNAPOFFS 0
+      LENGTH 21.16374920288399
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {EE3261AD-B376-2E41-B663-175305B1AADD}
+      IID 390
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.594595 0 1 -1
+      SOFFS 6080.103891560625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {776C334B-42E1-0A44-9CD4-1FD791BA35CD}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 5980.7041339498437
+      SNAPOFFS 0
+      LENGTH 0.19713934570609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {438FC12D-86CA-4A4A-A09D-855312C80734}
+      IID 550
+      NAME 323498__spennnyyy__movie-cut-sound.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4D97BB9-7C35-584F-B819-2011FE346717}
+      <SOURCE MP3
+        FILE "/Users/andi/Downloads/323498__spennnyyy__movie-cut-sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6001.826523396071
+      SNAPOFFS 0
+      LENGTH 0.19713934570609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {DED84881-9CBF-E843-8658-403525FBD408}
+      IID 550
+      NAME 323498__spennnyyy__movie-cut-sound.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E73D648E-E7FF-124E-A4F0-3B232922A958}
+      <SOURCE MP3
+        FILE "/Users/andi/Downloads/323498__spennnyyy__movie-cut-sound.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6002.0236627417771
+      SNAPOFFS 0
+      LENGTH 21.97555691584511
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {1DFA0B8E-816D-1D44-86F8-AD0895A4B557}
+      IID 569
+      NAME auphonic_v1.track04.flac
+      VOLPAN 0.594595 0 1 -1
+      SOFFS 6128.4416312927706
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A81B28D-7881-9743-8521-ECF111AE4DD8}
+      <SOURCE FLAC
+        FILE "auphonic_v1.track04.flac"
+      >
+    >
+    <ITEM
+      POSITION 6024.0379329911393
+      SNAPOFFS 0
+      LENGTH 0.19713934570609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {1F9DD57A-C5D4-C64D-9E67-8971E20C0FE8}
+      IID 550
+      NAME 323498__spennnyyy__movie-cut-sound.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F73E5EB-7ECF-3744-8D06-460450FE0049}
+      <SOURCE MP3
+        FILE "/Users/andi/Downloads/323498__spennnyyy__movie-cut-sound.mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {E740B54C-13C1-BA49-AA76-75F1E15F87DC} 22979327 "" "" ""
+      {9D9F1B0D-C785-C64E-B8E4-BF14C71E5F63} 22979327 "" "" ""
+      {39480420-92D8-1141-AE12-051A705029E5} 22979327 "" "" ""
+      {AE1B34D4-A904-6F4C-90F0-1D2CA40384C6} 22979327 "" "" ""
+    >
+  >
+>
