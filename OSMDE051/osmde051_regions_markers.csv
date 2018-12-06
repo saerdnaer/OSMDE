@@ -1,13 +1,103 @@
 #,Name,Start,End,Length,Color
-R1,rausschneiden,18:17.000,18:37.000,0:20.000,
-M1,Bewerberprozess,43:27.137,,,336915
-M2,Tobias Knerr,49:21.443,,,336915
-M9,Guillaume Rischard (Stereo),1:07:04.218,,,336915
-M3,Q1 Tell us a little about your OSM activities,1:27:07.975,,,336915
-M4,Q2 What do you think qualifies you for a position on the board of the OSMF?,1:49:16.695,,,336915
-M5,Q7 Conflicts of interest,2:26:38.317,,,336915
-M6,Q11 Deciding on who gets grants,3:03:47.422,,,336915
-M8,Q12 Due diligence reverting edits,3:16:51.834,,,336915
-M7,Q13 Criticism on social media ,3:23:32.274,,,336915
-M10,TODO? Sollte das noch mit rein?,3:41:13.152,,,336915
-M11,Hausmeisterei,3:57:10.982,,,336915
+M1,Intro,00:00.000,,,336915
+M2,"Was ist die OSMF",00:01:30,,,336915
+M3,"Vorstandsarbeit bisher + Beitrag von Peda",00:06:35,,,336915
+M4,"AGM: Jahreshauptversammlung",00:18:37,,,336915
+M5,Anträge,00:20:27,,,336915
+M6,"Ablauf der Wahl",00:22:39,,,336915
+M7,"STV Voting",00:28:08,,,336915
+M8,Masseneintritt,00:34:53,,,336915
+M9,"Mitgliederstruktur der OSMF",00:36:42,,,336915
+M10,Kandidaturprozedere,00:43:27,,,336915
+M11,"Übersicht über die Bewerber",00:48:46,,,336915
+M12,"Manifest von Tobias Knerr",00:49:21,,,336915
+M13,"Manifest von Jo Walsh",00:55:48,,,336915
+M14,"Manifest von Geoffrey K...",00:55:19,,,336915
+M15,"Manifest von Joost Schouppe",01:02:08,,,336915
+M16,"Manifest von Guillaume Richard",01:07:05,,,336915
+M17,"Manifest von Miriam Gonzale",01:13:35,,,336915
+M18,"Manifest von Nuno",01:17:20,,,336915
+M19,"Die offiziellen Fragen",01:26:31,,,336915
+M20,"Frage 1: Was sind eure Aktivitäten in OSM?",01:26:31,,,336915
+M21,"Tobias Knerr",01:26:31,,,336915
+M22,"Jo Walsh",01:31:25,,,336915
+M23,"Geoffrey K...",01:33:18,,,336915
+M24,"Joost Schouppe",01:36:03,,,336915
+M25,"Guillaume Richard (Stereo)",01:39:26,,,336915
+M26,"Miriam Gonzale",01:43:49,,,336915
+M27,Nuno,01:45:42,,,336915
+M28,"Frage 2: Was qualifiziert dich zum Vorstand?",01:49:16,,,336915
+M29,"Frage 3: Sind OSMFs Ziele und Werte gut?",01:52:26,,,336915
+M30,"Frage 4: Alles rund um Mapper",01:57:01,,,336915
+M31,"Frage 5: Kannst du was nettes über deine Kollegen sagen?",02:16:31,,,336915
+M32,"Frage 6: Board Diversity",02:20:36,,,336915
+M33,"Frage 7: Interessenskonflikt",02:26:38,,,336915
+M34,"Frage 8: Termlimits",02:37:55,,,336915
+M35,"Frage 9: Brauchen wir bezahltes Personal?",02:48:30,,,336915
+M36,"Frage 10: Was sagst du zu organisiertem Editieren?",02:56:21,,,336915
+M37,"Frage 11: Was sagst du zu MicroGrants?",03:03:46,,,336915
+M38,"Frage 12: Wann darf ich Änderungen revertieren?",03:16:51,,,336915
+M39,"Frage 13: Kritik in sozialen Medien",03:23:32,,,336915
+M40,"Subjektive Bewertungen",03:31:30,,,336915
+M41,Wahlkampf-Endphase,03:40:11,,,336915
+M42,"Wer wird Schatzmeister?",03:43:12,,,336915
+M43,"Finanzdienstleistung durch die OSMF",03:47:38,,,336915
+M44,Schlussbemerkungen,03:51:31,,,336915
+M45,Hausmeisterthemen,03:57:10,,,336915
+R1,"husten auf einer Spur",00:32:04,,,336915
+R2,"husten auf einer Spur",01:00:41,,,336915
+R3,"husten auf einer Spur",01:17:33,,,336915
+R4,"husten auf einer Spur",01:43:36,,,336915
+R5,"husten auf einer Spur",01:48:20,,,336915
+R6,"husten auf einer Spur",02:10:12,,,336915
+R7,"husten auf einer Spur",02:18:21,,,336915
+R8,rausschneiden,00:18:17,00:18:37,,336915
+R9,"husten + minimal kürzen",00:20:37,00:20:43,,336915
+R10,"rausschneiden (husten + pausen)",00:22:05,00:22:39,,336915
+R11,rausschneiden,00:27:59,00:28:08,,336915
+R12,"evtl kürzen/rausschneiden",00:29:14,00:29:19,,336915
+R13,"rausschneiden (husten",00:31:15,00:31:20,,336915
+R14,rausschneiden,00:38:43,00:38:49,,336915
+R15,"rausschneiden (wiederholung)",00:55:39,00:55:48,,336915
+R16,"rausschneiden (schniefen)",00:57:49,00:58:03,,336915
+R17,rausschneiden,00:59:08,00:59:26,,336915
+R18,rausschneiden,01:00:33,01:00:41,,336915
+R19,"rausschneiden (pause)",01:01:22,01:01:26,,336915
+R20,"rausschneiden (Peda labert scheiss)",01:02:14,01:02:21,,336915
+R21,"rausschneiden (doppelt)",01:17:13,01:17:20,,336915
+R22,"rausschneiden (pause)",01:34:05,01:34:21,,336915
+R23,"rausschneiden (pause)",01:35:57,01:36:03,,336915
+R24,"rausschneiden (pause)",01:39:21,01:39:26,,336915
+R25,"rausschneiden (Peda labert scheiss + pausen",01:42:11,01:42:59,,336915
+R26,"rausschneiden (pause)",01:43:38,01:43:49,,336915
+R27,"rausschneiden (pause)",01:45:34,01:45:42,,336915
+R28,"rausschneiden (pause)",01:46:32,01:47:02,,336915
+R29,"rausschneiden (pause)",01:52:18,01:52:26,,336915
+R30,"rausschneiden (Sprachfehler Andi :))",01:57:44,01:57:59,,336915
+R31,"rausschneiden (pause + husten)",01:59:01,01:59:06,,336915
+R32,"rausschneiden (pause)",02:16:20,02:16:31,,336915
+R33,"rausschneiden (pause)",02:20:23,02:20:36,,336915
+R34,"rausschneiden (pause)",02:21:32,02:21:30,,336915
+R35,"rausschneiden (pause)",02:27:36,02:27:40,,336915
+R36,"husten auf einer Spur",02:33:20,,,336915
+R37,"eine Spur schneiden (schniefen)",02:34:50,02:34:42,,336915
+R38,"eine Spur schneiden (schniefen)",02:37:16,02:37:17,,336915
+R39,"rausschneiden (aus inhaltlichen Gründen besser so)",02:39:36,02:41:30,,336915
+R40,"husten auf einer Spur",02:41:35,,,336915
+R41,"rausschneiden (versprecher)",02:37:38,02:37:55,,336915
+R42,"rausschneiden (pause + husten)",02:48:21,02:48:30,,336915
+R43,"rausschneiden (pause)",02:56:04,02:56:12,,336915
+R44,"rausschneiden (versprecher)",02:56:16,02:56:21,,336915
+R45,"schwierig: rausschneiden husten",02:56:33,02:56:35,,336915
+R46,"husten auf einer Spur",02:59:24,,,336915
+R47,"husten auf einer Spur",03:14:11,03:14:13,,336915
+R48,"husten im Studio",03:27:58,,,336915
+R49,"rausschneiden (pause)",03:32:22,03:33:26,,336915
+R50,"rausschneiden (pause)",03:43:08,03:43:12,,336915
+R51,"eine Spur löschen (members only)",03:49:55,,,336915
+R52,"husten im Studio",03:50:43,,,336915
+R53,"rausschneiden (überflüssig)",03:50:48,03:51:31,,336915
+R54,"husten auf einer Spur",03:53:37,,,336915
+R55,"husten auf einer Spur",03:54:57,,,336915
+R56,"(evtl weglassen?!?)",03:50:48,03:57:10,,336915
+R57,"(bloopers absicht?)",04:00:23,04:01:40,,336915
